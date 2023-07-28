@@ -1,0 +1,23 @@
+{
+  "name": "cra-template-pwa-mui-theme-redux-swr",
+  "version": "1.0.0",
+  "description": "cra-template-pwa-mui-theme-redux-swr",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "keywords": [
+    "react",
+    "create-react-app",
+    "template",
+    "cra-template-pwa-mui-theme-redux-swr"
+  ],
+  "engines": {
+    "node": ">=14"
+  },
+  "files": [
+    "template",
+    "template.json"
+  ]
+}
